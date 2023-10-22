@@ -1,0 +1,12 @@
+||tclclouds.com^
+||xjp-jmacs.m.taobao.com^
+||www.merchant-center-analytics.goog^
+||mtalk.google.com^
+||ff.avast.com^
+||avcdn.net^
+||connect-dra.dbankcloud.cn^
+||www.tct-teye.com^
+||h-adashx.ut.daraz.com^
+||telemetry-ingestion.me-dubai-1.oraclecloud.com^$important
+/.*dnkeeper.*/
+||h-adashx4ae.ut.taobao.com^
