@@ -1,3 +1,9 @@
+[Adblock Plus]
+! Title: Custom Adguard Filter
+! Description: Blocks the domains not blokced by other lists
+! Expires: 24 hours
+! Syntax: Adblock Plus Filter List
+
 ||tclclouds.com^
 ||xjp-jmacs.m.taobao.com^
 ||www.merchant-center-analytics.goog^
