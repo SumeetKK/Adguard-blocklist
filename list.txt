@@ -10,3 +10,4 @@
 ||telemetry-ingestion.me-dubai-1.oraclecloud.com^
 /.*dnkeeper.*/
 ||h-adashx4ae.ut.taobao.com^
+||3gmimo.com^
