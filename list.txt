@@ -4,6 +4,7 @@
 ! Expires: 24 hours
 ! Syntax: Adblock Plus Filter List
 
+# Unknowns - Ads/Tracking
 ||tclclouds.com^
 ||xjp-jmacs.m.taobao.com^
 ||www.merchant-center-analytics.goog^
@@ -19,3 +20,8 @@
 ||3gmimo.com^
 ||mobile.pipe.aria.microsoft.com^
 ||at-display-videos.deliveryhero.io^
+
+# Queries Made by Bots
+||ip.parrotdns.com^
+||sl^
+||version.bind
