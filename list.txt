@@ -24,4 +24,4 @@
 # Queries Made by Bots
 ||ip.parrotdns.com^
 ||sl^
-||version.bind
+||version.bind^
