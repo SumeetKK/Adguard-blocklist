@@ -26,4 +26,5 @@
 ||sl^
 ||version.bind^
 ||shadowserver.org^
-
+||dnsavailable.xyz^
+||research.openresolve.rs^
