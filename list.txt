@@ -25,3 +25,5 @@
 ||ip.parrotdns.com^
 ||sl^
 ||version.bind^
+||dnsscan.shadowserver.org
+
