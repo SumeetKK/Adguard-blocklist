@@ -28,3 +28,14 @@
 ||shadowserver.org^
 ||dnsavailable.xyz^
 ||research.openresolve.rs^
+||_udp.local^
+||qq.com^
+||asertdnsresearch.com^
+||www.stage^
+||cybergreen.net^
+||aaa.stage^
+||research.openresolve.rs^
+||stage.whatever^
+||research.a10protects.com^
+||cyberresilience.io^
+||dnsscan.top^
