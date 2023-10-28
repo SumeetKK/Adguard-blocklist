@@ -39,3 +39,8 @@
 ||research.a10protects.com^
 ||cyberresilience.io^
 ||dnsscan.top^
+||.pw^ #Too Many .pw domains
+||baidu.com^ #Legitimate Site, But nobody here uses it, except bots.
+||esearch.nawrocki.berlin^
+||shodan.io^
+||openresolvertest.net^
