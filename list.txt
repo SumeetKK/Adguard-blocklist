@@ -44,3 +44,6 @@
 ||esearch.nawrocki.berlin^
 ||shodan.io^
 ||openresolvertest.net^
+||tstng.net^
+||internet-census.org^
+
