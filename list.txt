@@ -65,6 +65,5 @@
 ||.^
 ||research.a10protects.com^
 ||internet-census.org^
-||8bb93916.example.com^$important
 ||secshow.net^
 ||afusdnfysbsf.com^
