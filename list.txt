@@ -1,10 +1,10 @@
 [Adblock Plus]
 ! Title: Custom Adguard Filter
-! Description: Blocks the domains not blokced by other lists
-! Expires: 24 hours
+! Description: Blocks the domains not blokced by other lists, and Lists used by bots
+! Expires: 3 Days
 ! Syntax: Adblock Plus Filter List
 
-# Unknowns - Ads/Tracking
+# Unknowns - Ads/Tracking/Others that I want to block
 ||tclclouds.com^
 ||xjp-jmacs.m.taobao.com^
 ||www.merchant-center-analytics.goog^
@@ -20,6 +20,19 @@
 ||3gmimo.com^
 ||mobile.pipe.aria.microsoft.com^
 ||at-display-videos.deliveryhero.io^
+||news-in.feednews.com^
+||kolun.transsion-os.com^
+||ad.clickmobile.id^
+||palmplaystore.com^
+||mimo51.com^
+||news-in.op-mobile.opera.com^
+||expresvpn-private-analytics.net^
+||yieldlove-ad-serving.net^
+||jubnaadserve.com^
+||tracking.epicgames.com^
+||unterhaltungsbox.com^
+||byteoversea.com^
+
 
 # Queries Made by Bots
 ||ip.parrotdns.com^
@@ -41,9 +54,17 @@
 ||dnsscan.top^
 ||.pw^ #Too Many .pw domains
 ||baidu.com^ #Legitimate Site, But nobody here uses it, except bots.
-||esearch.nawrocki.berlin^
+||research.nawrocki.berlin^
 ||shodan.io^
 ||openresolvertest.net^
 ||tstng.net^
 ||internet-census.org^
-
+||example.com^
+||example.net^
+||example.org^
+||.^
+||research.a10protects.com^
+||internet-census.org^
+||8bb93916.example.com^$important
+||secshow.net^
+||afusdnfysbsf.com^
