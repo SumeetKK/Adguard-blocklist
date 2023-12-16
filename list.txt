@@ -53,6 +53,7 @@
 ||kolun.transsion-os.com^
 ||ad.clickmobile.id^
 ||palmplaystore.com^
+||shalltry.com^
 
 # Queries Made by Bots
 ||ip.parrotdns.com^
