@@ -9,8 +9,6 @@
 ||xjp-jmacs.m.taobao.com^
 ||www.merchant-center-analytics.goog^
 ||mtalk.google.com^
-||ff.avast.com^
-||avcdn.net^
 ||connect-dra.dbankcloud.cn^
 ||www.tct-teye.com^
 ||h-adashx.ut.daraz.com^
@@ -67,3 +65,17 @@
 ||internet-census.org^
 ||secshow.net^
 ||afusdnfysbsf.com^
+||self.events.data.microsoft.com
+||xjp-msgacs.m.taobao.com^$important
+||acs-m.lazada.sg^$important
+||amdc.lazada.com^$important
+||msgacs-m.lazada.sg^$important
+||umlazada.alibaba.com^$important
+||jmacs-m.lazada.sg^$important
+||orange-dc.lazada.com^$important
+||zconfig.alibabausercontent.com^$important
+||irl-api.twibida.com^$important
+||api.storyly.io^$important
+||bf99042ofw.bf.dynatrace.com^$important
+||www.yingwangtech.club^$important
+||www.googleadservices.com^$important
