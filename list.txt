@@ -46,6 +46,13 @@
 ||bf99042ofw.bf.dynatrace.com^
 ||www.yingwangtech.club^
 ||www.googleadservices.com^
+||adx.apexinnotech.com
+||feed.rhino-news.com^
+||irl-api.twibida.com^
+||news-in.feednews.com^
+||kolun.transsion-os.com^
+||ad.clickmobile.id^
+||palmplaystore.com^
 
 # Queries Made by Bots
 ||ip.parrotdns.com^
@@ -65,8 +72,6 @@
 ||research.a10protects.com^
 ||cyberresilience.io^
 ||dnsscan.top^
-||.pw^ #Too Many .pw domains
-||baidu.com^ #Legitimate Site, But nobody here uses it, except bots.
 ||research.nawrocki.berlin^
 ||shodan.io^
 ||openresolvertest.net^
@@ -75,7 +80,6 @@
 ||example.com^
 ||example.net^
 ||example.org^
-||.^
 ||research.a10protects.com^
 ||internet-census.org^
 ||secshow.net^
