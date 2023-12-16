@@ -80,17 +80,3 @@
 ||internet-census.org^
 ||secshow.net^
 ||afusdnfysbsf.com^
-||self.events.data.microsoft.com
-||xjp-msgacs.m.taobao.com
-||acs-m.lazada.sg
-||amdc.lazada.com
-||msgacs-m.lazada.sg
-||umlazada.alibaba.com
-||jmacs-m.lazada.sg
-||orange-dc.lazada.com
-||zconfig.alibabausercontent.com^
-||irl-api.twibida.com
-||api.storyly.io
-||bf99042ofw.bf.dynatrace.com
-||www.yingwangtech.club
-||www.googleadservices.com
