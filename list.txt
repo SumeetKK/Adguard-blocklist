@@ -53,7 +53,9 @@
 ||kolun.transsion-os.com^
 ||ad.clickmobile.id^
 ||palmplaystore.com^
-||shalltry.com^
+||shalltry.com^ #Techno Mobiles - Block all Queries
+@@||osupdate2020.shalltry.com^$important #Except OS Update Query
+
 
 # Queries Made by Bots
 ||ip.parrotdns.com^
