@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! Title: Custom Adguard Filter
-! Description: Blocks the domains not blokced by other lists, and Lists used by bots
-! Expires: 3 Days
+! Description: Blocks the domains not blokced by other lists, and Lists used by bots - Use at your own risk
+! Expires: 30 Days
 ! Syntax: Adblock Plus Filter List
 
 # Unknowns - Ads/Tracking/Others that I want to block + Queries that happen from my PC.
