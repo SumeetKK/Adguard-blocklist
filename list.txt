@@ -4,7 +4,7 @@
 ! Expires: 3 Days
 ! Syntax: Adblock Plus Filter List
 
-# Unknowns - Ads/Tracking/Others that I want to block
+# Unknowns - Ads/Tracking/Others that I want to block + Queries that happen from my PC.
 ||tclclouds.com^
 ||xjp-jmacs.m.taobao.com^
 ||www.merchant-center-analytics.goog^
@@ -30,7 +30,22 @@
 ||tracking.epicgames.com^
 ||unterhaltungsbox.com^
 ||byteoversea.com^
-
+||driver-updater.ff.avast.com^
+||yingwangtech.club^
+||self.events.data.microsoft.com^
+||xjp-msgacs.m.taobao.com^
+||acs-m.lazada.sg^
+||amdc.lazada.com^
+||msgacs-m.lazada.sg^
+||umlazada.alibaba.com^
+||jmacs-m.lazada.sg^
+||orange-dc.lazada.com^
+||zconfig.alibabausercontent.com^
+||irl-api.twibida.com^
+||api.storyly.io^
+||bf99042ofw.bf.dynatrace.com^
+||www.yingwangtech.club^
+||www.googleadservices.com^
 
 # Queries Made by Bots
 ||ip.parrotdns.com^
