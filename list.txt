@@ -55,7 +55,7 @@
 ||palmplaystore.com^
 ||shalltry.com^ #Techno Mobiles - Block all Queries
 @@||osupdate2020.shalltry.com^$important #Except OS Update Query
-
+@@||app.adjust.com^$important #For Cashback
 
 # Queries Made by Bots
 ||ip.parrotdns.com^
