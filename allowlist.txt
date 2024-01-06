@@ -1,0 +1,9 @@
+[Adblock Plus]
+! Title: Custom Adguard Whitelist
+! Description: Custom Whitelist - Use at your own risk
+! Expires: 30 Days
+! Syntax: Adblock Plus Filter List
+
+@@||osupdate2020.shalltry.com^
+@@||app.adjust.com
+@@||bhpz.adj.st^
