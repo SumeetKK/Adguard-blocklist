@@ -54,8 +54,19 @@
 ||ad.clickmobile.id^
 ||palmplaystore.com^
 ||shalltry.com^ #Techno Mobiles - Block all Queries
-@@||osupdate2020.shalltry.com^$important #Except OS Update Query
-@@||app.adjust.com^$important #For Cashback
+||grs.platform.dbankcloud.ru^$important
+||acs.m.taobao.com^$important
+||api.hisavana.com^$important
+||lzoy.2freethinking.online^$important
+||service-api.kingsoft-office-service.com^$important
+||movip.wps.com^$important
+||cloud.wpscdn.com^$important
+||ovs-shopwindow-server.wps.com^$important
+||api-ad-adapter-sg.wps.com^$important
+||ip-info.ff.avast.com^
+||shepherd.sb.avast.com^
+||analytics.ff.avast.com^
+
 
 # Queries Made by Bots
 ||ip.parrotdns.com^
@@ -87,3 +98,6 @@
 ||internet-census.org^
 ||secshow.net^
 ||afusdnfysbsf.com^
+||baidu.com^
+/.*shadowserver.*/
+/.*echodns.*/
