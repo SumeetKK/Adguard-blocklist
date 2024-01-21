@@ -83,6 +83,7 @@
 ||spocs.getpocket.com
 ||shavar.services.mozilla.com
 ||googletagmanager.com^
+||datarouter.ol.epicgames.com^
 
 #From GameIndustry.eu
 || www-iobit-com.us-east-1.elasticbeanstalk.com
