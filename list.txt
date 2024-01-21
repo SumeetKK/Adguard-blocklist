@@ -73,6 +73,16 @@
 ||ping.avast.com^$important
 ||filerep-replica-win.ff.avast.com^$important
 ||ncc.avast.com^$important
+||in.appcenter.ms^
+||oneclient.sfx.ms^
+||contile.services.mozilla.com
+||settings-win.data.microsoft.com
+||config.edge.skype.com
+||img-getpocket.cdn.mozilla.net
+||getpocket.cdn.mozilla.net 
+||spocs.getpocket.com
+||shavar.services.mozilla.com
+||googletagmanager.com^
 
 #From GameIndustry.eu
 || www-iobit-com.us-east-1.elasticbeanstalk.com
