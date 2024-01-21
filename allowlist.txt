@@ -1,6 +1,6 @@
 [Adblock Plus]
 ! Title: Custom Adguard Whitelist
-! Description: Custom Whitelist - Use at your own risk
+! Description: Custom Whitelist - URLs blocked by my Blocklist, that should be permitted - Use at your own risk
 ! Expires: 30 Days
 ! Syntax: Adblock Plus Filter List
 
@@ -9,3 +9,7 @@
 @@||bhpz.adj.st^
 @@||ns.cloudflare.com^important
 @@||iana.org^
+@@||www.bing.com
+@@||bing.com
+@@||web.facebook.com
+@@||lencr.org^
