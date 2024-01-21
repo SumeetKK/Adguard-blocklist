@@ -7,3 +7,5 @@
 @@||osupdate2020.shalltry.com^
 @@||app.adjust.com
 @@||bhpz.adj.st^
+@@||ns.cloudflare.com^important
+@@||iana.org^
