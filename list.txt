@@ -66,6 +66,135 @@
 ||ip-info.ff.avast.com^
 ||shepherd.sb.avast.com^
 ||analytics.ff.avast.com^
+||console-telemetry.oci.oraclecloud.com^$important
+||appmetrica.yandex.ru^$important
+||browser.sentry-cdn.com^$important
+||analytics.google.com^$important
+||ping.avast.com^$important
+||filerep-replica-win.ff.avast.com^$important
+||ncc.avast.com^$important
+
+#From GameIndustry.eu
+|| www-iobit-com.us-east-1.elasticbeanstalk.com
+|| iobit-license.us-east-1.elasticbeanstalk.com
+|| db-api-stats.us-east-1.elasticbeanstalk.com
+|| db-api-production-proxy.eu-central-1.elasticbeanstalk.com
+|| purchase.iobit.com
+|| asc55.iobit.com # Maybe another serial number check?
+|| bitdefenders.iobit.com # Actual download of updates
+|| updates3.iobit.com.s3.amazonaws.com
+|| iunins.iobit.com
+|| stats.iobit.com
+|| ascstats.iobit.com # Product activation/activation status, UID, language settings, operating system, version number, serial number, company order
+|| stats-iobit-com.us-east-1.elasticbeanstalk.com # Ignoring hosts | inststat.exe
+|| ascstats-iobit-com.elasticbeanstalk.com # Manta.exe
+|| download.iobit.com
+|| gs1.wpc.edgecastcdn.net # Program updates e.g. Driverbooster # 93.184.221.133
+|| unleash-proxy.sre.malwarebytes.com # /proxy/client/metrics
+|| www.googletagmanager.com # AccountID: UA-3347303-10
+|| www.google-analytics.com
+|| rum-collector-2.pingdom.net
+|| player-telemetry.vimeo.com
+|| fresnel.vimeocdn.com
+|| subscribe.malwarebytes.com
+|| iris.mwbsys.com
+|| idms-device-prod.mwbsys.com
+|| d333241snikpcq.cloudfront.net
+|| elb-telemetry-prod-external-1332413525.us-west-2.elb.amazonaws.com
+|| ngx.download.nvidia.com
+|| e28142.d.akamaiedge.net
+|| gfe.geforce.com
+|| gfe.nvidia.com # Optimization of products in the launcher
+|| activation.gfe.nvidia.com
+|| events.gfe.nvidia.com
+|| events-dc1.gfe.nvidia.com
+|| telemetry.gfe.nvidia.com # nvcontainer.exe
+|| cs515.adn.phicdn.net
+|| activation-dc1.gfe.nvidia.com
+|| ota.nvidia.com
+|| telemetry.nvidia.com
+|| events-lon1.gfe.nvidia.com
+|| cs1137261584.wpc.phicdn.net
+|| download.orbmu2k.de
+|| go.oo-software.com
+|| www.oo-software.com
+|| update10.oo-software.com
+|| ads.filezilla-project.org
+|| offers.filezilla-project.org
+|| ua.inmotionhosting.com
+|| imh01-inmotionhosting1.netdna-ssl.com
+|| cloud.nitehe-nutete.com
+|| cloud.nitehe-nutete.com
+|| remote.nitehe-nutete.com
+|| ww1.nitehe-nutete.com
+|| win.crashes.videolan.org
+|| crashlogs.whatsapp.net
+|| scontent.faep2-1.fna.fbcdn.net
+|| notifier.rarlab.com
+|| notifier.win-rar.com
+|| delivery.consentmanager.net
+|| b.delivery.consentmanager.net
+|| admiral.mgr.consensu.org
+|| api.conversant.mgr.consensu.org
+|| api.quantcast.mgr.consensu.org # Cookieaccess
+|| api.skimlinks.mgr.consensu.org
+|| apis.quantcast.mgr.consensu.org
+|| audit-tcfv2.quantcast.mgr.consensu.org
+|| audit.quantcast.mgr.consensu.org # Log
+|| c.sharethis.mgr.consensu.org
+|| cdn.consentmanager.mgr.consensu.org
+|| cdn.conversant.mgr.consensu.org
+|| cmp.factor.mgr.consensu.org
+|| cmp.teads.mgr.consensu.org
+|| consentmanager.mgr.consensu.org
+|| cookies.onetrust.mgr.consensu.org
+|| d.adroll.mgr.consensu.org
+|| iubenda.mgr.consensu.org
+|| quantcast.mgr.consensu.org
+|| sourcepoint.mgr.consensu.org
+|| static.quantcast.mgr.consensu.org # cmp-3pc Check
+|| test.quantcast.mgr.consensu.org
+|| vendorlist.consensu.org
+|| consentcdn.cookiebot.com
+|| cdn-cookieyes.com
+|| directory.cookieyes.com
+|| log.cookieyes.com
+|| consent.cookiefirst.com
+|| edge.cookiefirst.com
+|| privacy.gatekeeperconsent.com
+|| the.gatekeeperconsent.com
+|| geolocation.onetrust.com # Geodata / DNSFeed
+|| cdn-ukwest.onetrust.com
+|| privacyportal-fr.onetrust.com
+|| privacyportal.onetrust.com
+|| alpha-iqs.ff.avast.com
+|| alpha-license-dealer.ff.avast.com
+|| analytics.ff.avast.com
+|| analytics.ns1.ff.avast.com
+|| filerep.ff.avast.com
+|| filerep-replica.ff.avast.com
+|| ip-info.ff.avast.com
+|| luna.avcdn.net
+|| ncc.avast.com # Netzwerkcheck
+|| packet-responder.ff.avast.com
+|| s-install.avcdn.net
+|| shepherd.ff.avast.com
+|| slcw.ff.avast.com # Gateways
+|| ssl.google-analytics.com
+|| streamback.ns1.ff.avast.com
+|| su.ff.avast.com
+|| v7.stats.avast.com
+|| v7event.stats.avast.com
+|| www.google-analytics.com
+|| shepherd.ns1.ff.avast.com
+|| alpha-ld-stack.ns1.ff.avast.com
+|| thor.ns1.ff.avast.com
+|| su.ns1.ff.avast.com
+|| slc.ns1.ff.avast.com
+|| analytics.ns1.ff.avast.com
+|| analytics.ff.avast.com
+|| v7.stats.avast.com
+
 
 
 # Queries Made by Bots
