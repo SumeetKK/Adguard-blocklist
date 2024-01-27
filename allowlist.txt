@@ -9,7 +9,4 @@
 @@||bhpz.adj.st^
 @@||ns.cloudflare.com^important
 @@||iana.org^
-@@||www.bing.com
-@@||bing.com
-@@||web.facebook.com
 @@||lencr.org^
