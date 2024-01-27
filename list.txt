@@ -84,6 +84,12 @@
 ||shavar.services.mozilla.com
 ||googletagmanager.com^
 ||datarouter.ol.epicgames.com^
+||sdk-02.moengage.com^
+||t-api-snack.adaether.com^
+||g-zt.uvfuns.com^
+||g-zt.uvfuns.com.itotolink.net^
+||analytics.kitetech.co^
+
 
 #From GameIndustry.eu
 || www-iobit-com.us-east-1.elasticbeanstalk.com
