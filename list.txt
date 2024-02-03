@@ -97,18 +97,18 @@
 || db-api-stats.us-east-1.elasticbeanstalk.com
 || db-api-production-proxy.eu-central-1.elasticbeanstalk.com
 || purchase.iobit.com
-|| asc55.iobit.com # Maybe another serial number check?
-|| bitdefenders.iobit.com # Actual download of updates
+|| asc55.iobit.com
+|| bitdefenders.iobit.com
 || updates3.iobit.com.s3.amazonaws.com
 || iunins.iobit.com
 || stats.iobit.com
-|| ascstats.iobit.com # Product activation/activation status, UID, language settings, operating system, version number, serial number, company order
-|| stats-iobit-com.us-east-1.elasticbeanstalk.com # Ignoring hosts | inststat.exe
-|| ascstats-iobit-com.elasticbeanstalk.com # Manta.exe
+|| ascstats.iobit.com
+|| stats-iobit-com.us-east-1.elasticbeanstalk.com
+|| ascstats-iobit-com.elasticbeanstalk.com
 || download.iobit.com
-|| gs1.wpc.edgecastcdn.net # Program updates e.g. Driverbooster # 93.184.221.133
-|| unleash-proxy.sre.malwarebytes.com # /proxy/client/metrics
-|| www.googletagmanager.com # AccountID: UA-3347303-10
+|| gs1.wpc.edgecastcdn.net
+|| unleash-proxy.sre.malwarebytes.com
+|| www.googletagmanager.com
 || www.google-analytics.com
 || rum-collector-2.pingdom.net
 || player-telemetry.vimeo.com
@@ -121,11 +121,11 @@
 || ngx.download.nvidia.com
 || e28142.d.akamaiedge.net
 || gfe.geforce.com
-|| gfe.nvidia.com # Optimization of products in the launcher
+|| gfe.nvidia.com
 || activation.gfe.nvidia.com
 || events.gfe.nvidia.com
 || events-dc1.gfe.nvidia.com
-|| telemetry.gfe.nvidia.com # nvcontainer.exe
+|| telemetry.gfe.nvidia.com
 || cs515.adn.phicdn.net
 || activation-dc1.gfe.nvidia.com
 || ota.nvidia.com
@@ -153,11 +153,11 @@
 || b.delivery.consentmanager.net
 || admiral.mgr.consensu.org
 || api.conversant.mgr.consensu.org
-|| api.quantcast.mgr.consensu.org # Cookieaccess
+|| api.quantcast.mgr.consensu.org
 || api.skimlinks.mgr.consensu.org
 || apis.quantcast.mgr.consensu.org
 || audit-tcfv2.quantcast.mgr.consensu.org
-|| audit.quantcast.mgr.consensu.org # Log
+|| audit.quantcast.mgr.consensu.org
 || c.sharethis.mgr.consensu.org
 || cdn.consentmanager.mgr.consensu.org
 || cdn.conversant.mgr.consensu.org
@@ -169,7 +169,7 @@
 || iubenda.mgr.consensu.org
 || quantcast.mgr.consensu.org
 || sourcepoint.mgr.consensu.org
-|| static.quantcast.mgr.consensu.org # cmp-3pc Check
+|| static.quantcast.mgr.consensu.org
 || test.quantcast.mgr.consensu.org
 || vendorlist.consensu.org
 || consentcdn.cookiebot.com
@@ -180,7 +180,7 @@
 || edge.cookiefirst.com
 || privacy.gatekeeperconsent.com
 || the.gatekeeperconsent.com
-|| geolocation.onetrust.com # Geodata / DNSFeed
+|| geolocation.onetrust.com
 || cdn-ukwest.onetrust.com
 || privacyportal-fr.onetrust.com
 || privacyportal.onetrust.com
@@ -192,11 +192,11 @@
 || filerep-replica.ff.avast.com
 || ip-info.ff.avast.com
 || luna.avcdn.net
-|| ncc.avast.com # Netzwerkcheck
+|| ncc.avast.com
 || packet-responder.ff.avast.com
 || s-install.avcdn.net
 || shepherd.ff.avast.com
-|| slcw.ff.avast.com # Gateways
+|| slcw.ff.avast.com
 || ssl.google-analytics.com
 || streamback.ns1.ff.avast.com
 || su.ff.avast.com
