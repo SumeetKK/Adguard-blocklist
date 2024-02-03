@@ -89,7 +89,7 @@
 ||g-zt.uvfuns.com^
 ||g-zt.uvfuns.com.itotolink.net^
 ||analytics.kitetech.co^
-
+||shalltry.com^
 
 #From GameIndustry.eu
 || www-iobit-com.us-east-1.elasticbeanstalk.com
