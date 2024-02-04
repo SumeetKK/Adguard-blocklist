@@ -212,7 +212,9 @@
 || analytics.ff.avast.com
 || v7.stats.avast.com
 
-
+#Phishing URLS
+||657g.xyz^
+||dvx32.site^
 
 # Queries Made by Bots
 ||ip.parrotdns.com^
