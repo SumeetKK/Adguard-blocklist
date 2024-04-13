@@ -10,3 +10,4 @@
 @@||*.ns.cloudflare.com^important
 @@||iana.org^
 @@||lencr.org^
+@@||dnsotls-ds.metric.gstatic.com^
