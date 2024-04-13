@@ -53,26 +53,26 @@
 ||kolun.transsion-os.com^
 ||ad.clickmobile.id^
 ||palmplaystore.com^
-||shalltry.com^ #Techno Mobiles - Block all Queries
-||grs.platform.dbankcloud.ru^$important
-||acs.m.taobao.com^$important
-||api.hisavana.com^$important
-||lzoy.2freethinking.online^$important
-||service-api.kingsoft-office-service.com^$important
-||movip.wps.com^$important
-||cloud.wpscdn.com^$important
-||ovs-shopwindow-server.wps.com^$important
-||api-ad-adapter-sg.wps.com^$important
+||shalltry.com^ 
+||grs.platform.dbankcloud.ru
+||acs.m.taobao.com
+||api.hisavana.com
+||lzoy.2freethinking.online
+||service-api.kingsoft-office-service.com
+||movip.wps.com
+||cloud.wpscdn.com
+||ovs-shopwindow-server.wps.com
+||api-ad-adapter-sg.wps.com
 ||ip-info.ff.avast.com^
 ||shepherd.sb.avast.com^
 ||analytics.ff.avast.com^
-||console-telemetry.oci.oraclecloud.com^$important
-||appmetrica.yandex.ru^$important
-||browser.sentry-cdn.com^$important
-||analytics.google.com^$important
-||ping.avast.com^$important
-||filerep-replica-win.ff.avast.com^$important
-||ncc.avast.com^$important
+||console-telemetry.oci.oraclecloud.com
+||appmetrica.yandex.ru
+||browser.sentry-cdn.com
+||analytics.google.com
+||ping.avast.com
+||filerep-replica-win.ff.avast.com
+||ncc.avast.com
 ||in.appcenter.ms^
 ||oneclient.sfx.ms^
 ||contile.services.mozilla.com
@@ -90,6 +90,10 @@
 ||g-zt.uvfuns.com.itotolink.net^
 ||analytics.kitetech.co^
 ||shalltry.com^
+||ads.brave.com^
+||bsg.brave.com^
+||telemetry.me-dubai-1.oraclecloud.com^
+
 
 #From GameIndustry.eu
 || www-iobit-com.us-east-1.elasticbeanstalk.com
