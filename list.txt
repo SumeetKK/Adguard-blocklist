@@ -4,7 +4,7 @@
 ! Expires: 30 Days
 ! Syntax: Adblock Plus Filter List
 
-# Unknowns - Ads/Tracking/Others that I want to block + Queries that happen from my PC.
+# Unknowns - Ads/Tracking/Others.
 ||tclclouds.com^
 ||xjp-jmacs.m.taobao.com^
 ||www.merchant-center-analytics.goog^
@@ -92,7 +92,7 @@
 ||ads.brave.com^
 ||bsg.brave.com^
 ||telemetry.me-dubai-1.oraclecloud.com^
-
+||||api.revenuecat.com^
 
 #From GameIndustry.eu
 || www-iobit-com.us-east-1.elasticbeanstalk.com
