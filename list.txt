@@ -8,7 +8,6 @@
 ||tclclouds.com^
 ||xjp-jmacs.m.taobao.com^
 ||www.merchant-center-analytics.goog^
-||mtalk.google.com^
 ||connect-dra.dbankcloud.cn^
 ||www.tct-teye.com^
 ||h-adashx.ut.daraz.com^
