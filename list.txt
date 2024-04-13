@@ -751,9 +751,6 @@
 ||openresolvertest.net^
 ||tstng.net^
 ||internet-census.org^
-||example.com^
-||example.net^
-||example.org^
 ||research.a10protects.com^
 ||internet-census.org^
 ||secshow.net^
